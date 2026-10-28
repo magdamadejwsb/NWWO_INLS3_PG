@@ -1,0 +1,8 @@
+# Pliki systemowe
+# Windows
+Thumbs.db
+# macOS
+.DS_Store
+
+# Własne pliki
+zadania.txt
