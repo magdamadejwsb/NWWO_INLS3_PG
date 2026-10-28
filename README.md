@@ -56,3 +56,7 @@ Opis katalogów
 
 ## Wersje projektu
 Obecnie realizowana jest wersji 1.0.0
+
+## Współpraca w projekcie
+- [Zasady współpracy (Contributing)](Contributing.md)
+- [Kodeks postępowania (Code od Conduct)](CODE_OF_CONDUCT.md)
