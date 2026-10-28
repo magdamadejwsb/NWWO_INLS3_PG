@@ -1,5 +1,6 @@
 from tasks import add_task
 
+print("Początek programu.")
 print("Pierwsza linia kodu")
 
 lista_zadan = []
